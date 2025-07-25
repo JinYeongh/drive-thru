@@ -1,0 +1,56 @@
+﻿<Page x:Class="PaymentProject.PayComplete"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:PaymentProject"
+      Title="PayComplete" Background="#FFF8F0" FontFamily="맑은 고딕" FontSize="16"
+      Loaded="PayComplete_Loaded"
+      >
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- 상단 제목 -->
+            <RowDefinition Height="Auto"/>
+            <!-- 결제완료 텍스트 -->
+            <RowDefinition Height="*"/>
+            <!-- 하단 로고 -->
+        </Grid.RowDefinitions>
+
+        <!-- 🍔 THRUHAE 상단 제목 -->
+        <Border Grid.Row="0" Background="#FFCC00" Padding="20" CornerRadius="10" Margin="0,0,0,20">
+            <TextBlock Text="🍔 THRUHAE"
+                       FontSize="36"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Foreground="DarkRed"
+                       FontFamily="Segoe UI Black"/>
+        </Border>
+
+        <!-- ✅ 결제완료 텍스트 및 주문번호 -->
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Margin="0,0,0,30">
+            <TextBlock Text="결제완료"
+                       FontSize="50"
+                       FontWeight="Bold"
+                       Foreground="DarkRed"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="주문번호"
+                       FontSize="40"
+                       FontWeight="Bold"
+                       Foreground="DarkRed"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock x:Name="orderNumText"
+                       FontSize="40"
+                       FontWeight="Bold"
+                       Foreground="DarkRed"
+                       HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- 하단 쓰루해 로고 -->
+        <Border Grid.Row="2" Background="Transparent" Padding="10">
+            <Image Source="pack://application:,,,/Images/logo.png"/>
+
+        </Border>
+    </Grid>
+</Page>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iedL7s13DpM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PaymentProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pse\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,141 @@
+﻿<Page x:Class="PaymentProject.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:PaymentProject"
+      Title="쓰루해"
+      Background="#FFF8F0" FontFamily="맑은 고딕" FontSize="16"
+      Loaded="Page_Loaded">
+    <Page.Resources>
+        <Style TargetType="DataGridCell">
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+        </Style>
+        <!--추가: 옵션 리스트를 문자열로 변환 -->
+        <local:OptionListToStringConverter x:Key="OptionConverter"/>
+    </Page.Resources>
+
+    <Grid Margin="10" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- 제목 -->
+            <RowDefinition Height="*"/>
+            <!-- 주문 카드 리스트 -->
+            <RowDefinition Height="Auto"/>
+            <!-- 하단 합계 -->
+        </Grid.RowDefinitions>
+
+        <!-- 1. 제목 -->
+        <Border Grid.Row="0" Background="#FFCC00" Padding="20" CornerRadius="10">
+            <TextBlock Text="🍔 THRUHAE"
+                       FontSize="36"
+                       FontWeight="Bold"
+                       Foreground="DarkRed"
+                       HorizontalAlignment="Center"
+                       FontFamily="Segoe UI Black"/>
+        </Border>
+
+        
+        <!-- 2. 주문 카드 리스트 -->
+        <ScrollViewer Grid.Row="1" Margin="0,10" MinHeight="600"
+                      VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Disabled"
+                      PanningMode="VerticalOnly">
+            <ItemsControl x:Name="OrderListControl" ItemsSource="{Binding}"
+                          VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="#FFF3E0" BorderBrush="#DDDDDD" BorderThickness="1"
+                                CornerRadius="12" Padding="12" Margin="0,0,0,12">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- 번호 -->
+                                <TextBlock Text="{Binding Id}" FontWeight="Bold" FontSize="18" Margin="0,0,10,0"/>
+
+                                <!-- 메뉴명 -->
+                                <TextBlock Grid.Column="1" Text="{Binding Menu}" FontWeight="Bold" FontSize="16"/>
+
+                                <!-- 가격 -->
+                                <TextBlock Grid.Column="2" Text="{Binding Price, StringFormat='₩{0:N0}'}"
+                                           FontSize="16" FontWeight="SemiBold" HorizontalAlignment="Right"/>
+
+                                <!-- 옵션 -->
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Option, Converter={StaticResource OptionConverter}}" 
+                                           FontSize="14" Foreground="Gray"/>
+
+                                <!-- 수량 -->
+                                <TextBlock Grid.Row="1" Grid.Column="2" Text="{Binding Quantity, StringFormat='{}{0}개'}"
+                                           FontSize="14" Foreground="Gray" HorizontalAlignment="Right"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+
+        <!-- 3. 하단 합계 -->
+        <Grid Grid.Row="2" Margin="0,10" HorizontalAlignment="Right">
+            <Border Background="#FFF0D6" CornerRadius="10" Padding="10">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="총 수량 : " FontSize="20" FontWeight="Bold"/>
+                    <TextBlock x:Name="totalCountText" FontSize="20" 
+                               MinWidth="25"
+                               Text="{Binding TotalCount}" Margin="10,0"/>
+                    <TextBlock Text="합계 : " FontSize="20" FontWeight="Bold" Margin="20,0,0,0"/>
+                    <TextBlock x:Name="totalPriceText" FontSize="20" 
+                               MinWidth="100"
+                               Text="{Binding TotalPrice, StringFormat='₩{0:N0}'}"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+        <!-- 4. 결제 진행 팝업 -->
+        <Border x:Name="PaymentPopup"
+        Grid.RowSpan="3"
+        Background="#F5F5F5"
+        BorderBrush="Gray"
+        BorderThickness="2"
+        CornerRadius="12"
+        Visibility="Collapsed"
+        Width="400" Height="280"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        Panel.ZIndex="999">
+            <StackPanel Margin="20" HorizontalAlignment="Center">
+                <!-- 결제 이미지 -->
+                <Image Source="pack://application:,,,/Images/pay.png"
+               Width="150" Height="150"
+               Margin="0,0,0,20"
+               HorizontalAlignment="Center"/>
+
+                <!-- 안내 텍스트 -->
+                <TextBlock x:Name="ProcessingText"
+                   Text="카드 결제 진행 중입니다..."
+                   FontSize="20" FontWeight="Bold"
+                   Foreground="DarkSlateGray"
+                   HorizontalAlignment="Center"
+                   Visibility="Collapsed"/>
+
+                <!-- 프로그레스 바 -->
+                <ProgressBar x:Name="CardProgressBar"
+                     Height="20" Margin="0,20,0,0"
+                     Minimum="0" Maximum="100"
+                     Value="0"
+                     Foreground="#FFD312"/>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Page>

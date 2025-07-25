@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pse\\source\\repos\\PaymentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\paycomplete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:paycomplete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\network\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:network\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\paycomplete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:paycomplete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|c:\\users\\pse\\source\\repos\\paymentproject\\paymentproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77BF8F7E-DF83-4C31-8025-3AA0104EB883}|PaymentProject.csproj|solutionrelative:paymentproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentProject",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PaymentProject.csproj",
+              "RelativeDocumentMoniker": "PaymentProject.csproj",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PaymentProject.csproj",
+              "RelativeToolTip": "PaymentProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T04:45:33.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:00:02.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\Network\\Client.cs",
+              "RelativeDocumentMoniker": "Network\\Client.cs",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\Network\\Client.cs",
+              "RelativeToolTip": "Network\\Client.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:20:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:36:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayComplete.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PayComplete.xaml.cs",
+              "RelativeDocumentMoniker": "PayComplete.xaml.cs",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PayComplete.xaml.cs",
+              "RelativeToolTip": "PayComplete.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:35:08.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T12:02:26.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T11:54:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayComplete.xaml",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PayComplete.xaml",
+              "RelativeDocumentMoniker": "PayComplete.xaml",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\PayComplete.xaml",
+              "RelativeToolTip": "PayComplete.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T11:53:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\Page1.xaml",
+              "RelativeDocumentMoniker": "Page1.xaml",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\Page1.xaml",
+              "RelativeToolTip": "Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T11:40:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pse\\source\\repos\\PaymentProject\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\pse\\source\\repos\\PaymentProject\\Page1.xaml.cs",
+              "RelativeToolTip": "Page1.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:39:43.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

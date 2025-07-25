@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\option.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:option.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\popup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:popup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\select_type.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:select_type.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\tcpsignallistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:tcpsignallistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\select_type.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:select_type.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\popup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:popup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|c:\\users\\hjy\\desktop\\drive_thru\\drive-thru\\2ki_code\\option.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E0401-45E0-40E2-B46C-D31C1C9719F0}|real_drive.csproj|solutionrelative:option.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Popup.xaml",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Popup.xaml",
+              "RelativeDocumentMoniker": "Popup.xaml",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Popup.xaml",
+              "RelativeToolTip": "Popup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T10:37:24.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "select_type.xaml",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\select_type.xaml",
+              "RelativeDocumentMoniker": "select_type.xaml",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\select_type.xaml",
+              "RelativeToolTip": "select_type.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T10:37:19.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TcpSignalListener.cs",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\TcpSignalListener.cs",
+              "RelativeDocumentMoniker": "TcpSignalListener.cs",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\TcpSignalListener.cs",
+              "RelativeToolTip": "TcpSignalListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:16:07.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T10:10:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:10:37.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T10:10:34.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAFECAAAAAAAAAAAiwGQCAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:43:40.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Option.xaml",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Option.xaml",
+              "RelativeDocumentMoniker": "Option.xaml",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Option.xaml",
+              "RelativeToolTip": "Option.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T10:37:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Option.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Option.xaml.cs",
+              "RelativeDocumentMoniker": "Option.xaml.cs",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Option.xaml.cs",
+              "RelativeToolTip": "Option.xaml.cs",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAIwLQBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:45:02.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Popup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Popup.xaml.cs",
+              "RelativeDocumentMoniker": "Popup.xaml.cs",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\Popup.xaml.cs",
+              "RelativeToolTip": "Popup.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:14:58.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "select_type.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\select_type.xaml.cs",
+              "RelativeDocumentMoniker": "select_type.xaml.cs",
+              "ToolTip": "C:\\Users\\HJY\\Desktop\\drive_thru\\drive-thru\\2KI_Code\\select_type.xaml.cs",
+              "RelativeToolTip": "select_type.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:42:45.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+﻿<Page x:Class="real_drive.Option"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:real_drive"
+      mc:Ignorable="d"
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="Option"
+      Background="Transparent">
+
+    <Grid Background="Transparent">
+        <!-- ✅ 바깥 테두리 -->
+        <Border BorderThickness="4"
+                BorderBrush="#FFCC00"
+            CornerRadius="30"
+                Width="800"
+                Height="1000"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+
+            <!-- ✅ 내부 카드 -->
+            <Border Background="#FFF8F0"
+                    CornerRadius="30"
+                    Padding="25">
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- 🎯 타이틀 -->
+                    <Border Grid.Row="0"
+                            Background="#FFCC00"
+                            CornerRadius="12"
+                            Padding="20"
+                            Margin="0,0,0,15">
+                        <TextBlock Text="세트옵션"
+                                   FontSize="30"
+                                   FontWeight="Black"
+                                   Foreground="DarkRed"
+                                   HorizontalAlignment="Center"
+                                   FontFamily="맑은 고딕"/>
+                    </Border>
+
+                    <!-- 💬 말풍선 안내 -->
+                    <Border Grid.Row="1"
+                            Background="#FFF7C2"
+                            BorderBrush="#FFCC00"
+                            BorderThickness="2"
+                            CornerRadius="12"
+                            Padding="18"
+                            Margin="0,0,0,20">
+                        <TextBlock x:Name="TextBlock_menu"
+                                   FontSize="20"
+                                   FontWeight="Bold"
+                                   Foreground="DarkRed"
+                                   TextWrapping="Wrap"
+                                   FontFamily="맑은 고딕">
+                            <Run Text="옵션을 말해주세요 🎤"/>
+                            <LineBreak/>
+                            <Run Text="(예. 코울슬로, 사이다 M)"/>
+                        </TextBlock>
+                    </Border>
+
+                    <!-- 🧾 옵션 리스트 -->
+                    <ScrollViewer x:Name="OptionScrollViewer"
+                                  Grid.Row="2"
+                                  VerticalScrollBarVisibility="Auto">
+                        <StackPanel x:Name="MainStackPanel"
+                                    Orientation="Vertical"
+                                    Background="#FFF8F0"
+                                    Margin="0,0,0,10"
+                                    MinHeight="600"/>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+        </Border>
+    </Grid>
+</Page>
